@@ -5,9 +5,9 @@
 
 $host = 'localhost';
 $port = '3307';
-$database = ''; // enter your database name here
-$user = ''; // enter your database username here
-$password = ''; // enter your database password here
+$database = 'KLTermProject'; // enter your database name here
+$user = 'kylielopic'; // enter your database username here
+$password = 'Picklelove18!'; // enter your database password here
 $chrs = 'utf8mb4';
 $attr = "mysql:host=$host;port=$port;dbname=$database;charset=$chrs";
 $opts = [
